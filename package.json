@@ -1,0 +1,24 @@
+{
+  "name": "z3em",
+  "version": "0.0.1",
+  "description": "Z3 via emscripten",
+  "author": "Simmo Saan",
+  "keywords": [
+    "z3",
+    "emscripten"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sim642/z3em/issues",
+  "repository": "github:sim642/z3em",
+  "bugs": {
+    "url": "https://github.com/sim642/z3em/issues"
+  },
+  "files": [
+    "z3em.js",
+    "z3em.wasm"
+  ],
+  "main": "z3em.js",
+  "scripts": {
+    "build": "./z3em.sh"
+  }
+}
