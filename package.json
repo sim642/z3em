@@ -1,6 +1,6 @@
 {
   "name": "z3em",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Z3 via emscripten",
   "author": "Simmo Saan",
   "keywords": [
